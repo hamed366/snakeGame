@@ -1,0 +1,22 @@
+.item {
+  background-color: #ffebcd;
+  border: 1px solid gold;
+  font-size: 15px;
+  color: #000;
+  text-align: center;
+  line-height: 33px;
+}
+.Food {
+  background-color: gold;
+  font-size: 15px;
+  color: #000;
+  text-align: center;
+  line-height: 33px;
+}
+.snack {
+  background-color: #005cc5;
+  font-size: 15px;
+  color: #000;
+  text-align: center;
+  line-height: 33px;
+}
